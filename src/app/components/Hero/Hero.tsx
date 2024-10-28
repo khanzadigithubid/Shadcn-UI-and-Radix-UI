@@ -4,7 +4,7 @@ import img from "../../public/images.png";
 
 export default function Hero() {
     return (
-        <section className="bg-slate-600 text-black body-font">
+        <section className="bg-slate-600 text-white body-font">
             <div className="container mx-auto flex flex-col items-center px-5 py-10 md:py-20">
                 <div className="relative mb-10 w-full max-w-3xl">
                     <Image

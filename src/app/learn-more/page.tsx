@@ -7,7 +7,7 @@ export default function LearnMore() {
     return (
         <div className='bg-black text-white shadow-md'>
             <Navbar />
-        <section className='bg-slate-600 text-black body-font'>
+        <section className='bg-slate-600 text-white body-font'>
             <div className='container mx-auto flex flex-col items-center px-5 py-10 md:py-20'>
                 <div className='relative mb-10 w-full max-w-3xl'>
                     <Image

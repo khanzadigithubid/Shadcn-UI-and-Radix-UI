@@ -4,7 +4,7 @@ const FAQ = () => {
     return (
         <div className="bg-black text-white shadow-md">
             <Navbar />
-            <section className="p-4 bg-slate-600 text-black shadow-md">
+            <section className="p-4 bg-slate-600 text-white shadow-md">
                 <h2 className="text-2xl text-center font-bold">ShadCN UI and Redux FAQ</h2>
                 <br />
                 <div className="mt-4">
